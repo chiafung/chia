@@ -1361,8 +1361,8 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "旅行的意義",
-          "text": "<br>The world is a book and those who do not travel read only one page. \n<br>世界就像是一本書，而那些不旅行的人只讀了一頁。<br><br><br>而 你想翻下一頁嗎?",
+          "title": "<br>旅行的意義",
+          "text": "<br>The world is a book and those who do not travel read only one page. \n<br>世界就像是一本書，而那些不旅行的人只讀了一頁。<br><br>而 你想翻下一頁嗎?",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>",
           "_tags": [
             "Theme"
