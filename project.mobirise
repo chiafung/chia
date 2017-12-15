@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-02_2136",
-    "currentPage": "page3.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1374,12 +1374,14 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#000"
+              "color": "#000",
+              "text-align": "left"
             },
             ".mbr-section-lead": {
               "color": "#2c2929",
               "font-family": "'GenWanMinJP-Regular'",
-              "googleLink": "null"
+              "googleLink": "null",
+              "text-align": "left"
             }
           },
           "_params": {
@@ -1387,7 +1389,7 @@
             "showText": true,
             "showButtons": true,
             "showArrow": false,
-            "contentAlign": "left",
+            "contentAlign": "right",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": false,
@@ -1401,8 +1403,8 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "找回初衷",
-          "text": "溫暖你對生活的熱情 &nbsp; Warm your passion for life\n<br>枯燥的生活，有時會讓我們自己忘了活著的意義，而旅行是為了學習一種久違的擁抱，擁抱藍天、擁抱大海、擁抱自然、擁抱最初的自己，走走是為了尋找一種不一樣的感受，證明自己可以很好的活著。&nbsp;<br>",
+          "title": "找回初衷<br>",
+          "text": "<br>溫暖你對生活的熱情 &nbsp; <br>Warm your passion for life\n<br>枯燥的生活，有時會讓我們自己忘了活著的意義，而旅行是為了學習一種久違的擁抱，擁抱藍天、擁抱大海、擁抱自然、擁抱最初的自己，走走是為了尋找一種不一樣的感受，證明自己可以很好的活著。&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Let' go</a>",
           "_tags": [
             "Theme"
